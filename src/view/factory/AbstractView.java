@@ -3,7 +3,6 @@ package view.factory;
 import java.util.List;
 import model.factory.ModelInterface;
 import tools.Inputter;
-import tools.Util;
 
 /**
  *

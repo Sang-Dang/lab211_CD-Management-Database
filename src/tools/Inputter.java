@@ -2,7 +2,6 @@ package tools;
 
 import java.util.function.Function;
 import java.util.function.Predicate;
-import exceptions.InputException;
 import java.util.Scanner;
 
 /**
